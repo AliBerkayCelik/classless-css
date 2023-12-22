@@ -8,7 +8,7 @@ Classless css kullanmak için HTML sayfalarının `<head><head>` etiketlerinin a
 
 ![](/pic.png)
 
-Projenin Canlı Hali: [Buradan Ulaşabilirsiniz](aliberkaycelik-classless-demo-css.netlify.app) 
+Projenin Canlı Hali: [Buradan Ulaşabilirsiniz](https://aliberkaycelik-classless-demo-css.netlify.app/) 
 
 
  Classless Css Web Sitesi: [Buradan Ulaşabilirsiniz](https://classless.de/) 
